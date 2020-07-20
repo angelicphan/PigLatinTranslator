@@ -1,9 +1,0 @@
-Hello my name is Angelic Phan. 
-This is my Pig Latin translator. 
-It will encode or decode any input text to/from Pig Latin. 
-This may not be the best program out there, but it's for me to practice working 
-with Java again. 
-I hope you have fun! 
-Sequence of symbols: *()^*%%$$ okay okay 
-Math: (34 + 24) whoohoo 
-leading and ending: (hello) 
